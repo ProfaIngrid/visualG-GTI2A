@@ -31,9 +31,9 @@ Esta introdução a algoritmos com VisualG é a primeira parte da disciplina de 
 
 ## Recursos Necessários
 
-- **VisualG**: O VisualG é uma ferramenta gráfica para o desenvolvimento de algoritmos e fluxogramas. Você pode baixá-lo e instalá-lo a partir do [site oficial do VisualG](https://visualg3.com.br/).
+- **VisualG**: O VisualG é uma ferramenta gráfica para o desenvolvimento de algoritmos e fluxogramas. Você pode baixá-lo e instalá-lo a partir do [site oficial do VisualG](https://antonionicolodi.blogspot.com/).
 
-- **Material de Estudo**: Todos os [materiais de apoio](materials/) como slides, exercícios e tutoriais, estarão disponíveis neste repositório. Certifique-se de verificar as pastas correspondentes para acessar os recursos.
+- **Material de Estudo**: Todos os [materiais de apoio](Material(Slides)/) como slides, exercícios e tutoriais, estarão disponíveis neste repositório. Certifique-se de verificar as pastas correspondentes para acessar os recursos.
 
 - **Livros e Referências**: 
   - ARAUJO, S. *Lógica de programação e algoritmos*. Curitiba: Contentus, 2020. E-book.
@@ -41,7 +41,7 @@ Esta introdução a algoritmos com VisualG é a primeira parte da disciplina de 
 
 ## Instalação e Configuração do VisualG
 
-1. **Download**: Acesse o [site oficial](https://visualg3.com.br/) e baixe a versão mais recente do VisualG.
+1. **Download**: Acesse o [site oficial](https://antonionicolodi.blogspot.com/) e baixe a versão mais recente do VisualG.
 
 2. **Instalação**: Execute o arquivo de instalação e siga as instruções na tela.
 
